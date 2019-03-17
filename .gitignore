@@ -1,0 +1,6 @@
+.DS_Store
+CMakeFiles*/
+Objects/
+.idea/
+*.o
+libft.a
